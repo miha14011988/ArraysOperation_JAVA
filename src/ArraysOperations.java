@@ -150,6 +150,7 @@ public class ArraysOperations {
         String result10 = a.replaceValue(array,7,1000);
         System.out.println(result10);
         System.out.println("array: "+Arrays.toString(array));
+        System.out.println("HAPPY END");
 
     }
 }
